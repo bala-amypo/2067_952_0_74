@@ -1,0 +1,10 @@
+package com.example.deom.entity;
+
+import java.time.LocalDate;
+
+public class Student{
+    private Long id;
+    private String name;
+    private String dept;
+    private LocalDate
+}
